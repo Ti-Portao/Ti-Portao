@@ -1,7 +1,7 @@
 
 Hello people 👋
 
-- 🔭 I’m currently working on Advpl, TL++, SQL and RestFull among other things..
+- 🔭 I’m currently working on Advpl, TL++ and SQL, among other things..
 
 <div align="left">
   <a href="https://github.com/Ti-Portao">
@@ -33,4 +33,4 @@ Hello people 👋
   
 </div>    
         
-[Snake animation](https://github.com/Ti-Portao/Ti-Portao/blob/output/github-contribution-grid-snake.svg)     
+![Snake animation](https://github.com/Ti-Portao/Ti-Portao/blob/output/github-contribution-grid-snake.svg)     
