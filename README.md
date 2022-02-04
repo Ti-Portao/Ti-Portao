@@ -20,6 +20,7 @@ Hello people 👋
   <img align="center" alt="TI-FileZila" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg">  
   <img align="center" alt="TI-Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">    
   <img align="center" alt="TI-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">  
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/938971614228406312/939127652109942804/mad-cow.gif">
 </div>
 
   ##
