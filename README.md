@@ -24,7 +24,7 @@ Hello people 👋
 </div>
 
   ##
-  
+<!---  
 <div> 
   
   <a href="https://www.portaodecambui.com.br/" target="_blank">
@@ -34,5 +34,6 @@ Hello people 👋
   ##  
   
 </div>    
+
         
-![Snake animation](https://github.com/Ti-Portao/Ti-Portao/blob/output/github-contribution-grid-snake.svg)     
+![Snake animation](https://github.com/Ti-Portao/Ti-Portao/blob/output/github-contribution-grid-snake.svg)     ---!>
